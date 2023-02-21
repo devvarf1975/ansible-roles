@@ -1,7 +1,7 @@
 ---
 
 galaxy_info:
-  author: pescobar
+  author: henry
   role_name: apache_tomcat
   description: Ansible role to install and configure Apache Tomcat on CentOS/RHEL
   license: GPLv2
